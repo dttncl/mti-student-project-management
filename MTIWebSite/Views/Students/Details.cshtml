@@ -35,6 +35,21 @@
         </dd>
 
     </dl>
+    <table class="table">
+        <tr>
+            <th>Project Code</th>
+            <th>Project Title</th>
+            <th>Assignment Date</th>
+        </tr>
+        @foreach (var item in Model.Assignments)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.ProjectCode)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Projects.ProjectTitle)</td>
+                    <td>@Html.DisplayFor(modelItem => item.AssignmentDate)</td>
+                </tr>
+            }
+    </table>
 </div>
 <p>
     @Html.ActionLink("Edit", "Edit", new { id = Model.StudentNumber }) |
