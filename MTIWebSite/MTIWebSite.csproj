@@ -139,6 +139,7 @@
     <Compile Include="Models\Assignments.cs">
       <DependentUpon>MTIDatabaseModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\Metadata.cs" />
     <Compile Include="Models\MTIDatabaseModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -154,6 +155,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>MTIDatabaseModel.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Models\PartialClasses.cs" />
     <Compile Include="Models\Projects.cs">
       <DependentUpon>MTIDatabaseModel.tt</DependentUpon>
     </Compile>

@@ -11,7 +11,6 @@ namespace MTIWebSite.Models
 {
     using System;
     using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
     
     public partial class Students
     {
@@ -22,9 +21,7 @@ namespace MTIWebSite.Models
         }
     
         public int StudentNumber { get; set; }
-        [StringLength(50)]
         public string FirstName { get; set; }
-        [StringLength(50)]
         public string LastName { get; set; }
         public string Email { get; set; }
     
