@@ -1,0 +1,42 @@
+﻿@model MTIWebSite.Models.Assignments
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Assignments</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AssignmentDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AssignmentDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Projects.ProjectTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Projects.ProjectTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Students.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Students.FirstName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.AssignmentId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
