@@ -2,9 +2,9 @@ C:\Users\dette\source\repos\Winter2024\420_DW4_AS\mti-student-project-management
 C:\Users\dette\source\repos\Winter2024\420_DW4_AS\mti-student-project-management\MTIDatabase\bin\Debug\MTIDatabase.dll
 C:\Users\dette\source\repos\Winter2024\420_DW4_AS\mti-student-project-management\MTIDatabase\bin\Debug\MTIDatabase.pdb
 C:\Users\dette\source\repos\Winter2024\420_DW4_AS\mti-student-project-management\MTIDatabase\obj\Debug\MTIDatabase.sqlproj.AssemblyReference.cache
+C:\Users\dette\source\repos\Winter2024\420_DW4_AS\mti-student-project-management\MTIDatabase\obj\Debug\MTIDatabase.dll
+C:\Users\dette\source\repos\Winter2024\420_DW4_AS\mti-student-project-management\MTIDatabase\obj\Debug\MTIDatabase.pdb
 C:\Users\dette\source\repos\Winter2024\420_DW4_AS\mti-student-project-management\MTIDatabase\obj\Debug\Model.xml
 C:\Users\dette\source\repos\Winter2024\420_DW4_AS\mti-student-project-management\MTIDatabase\obj\Debug\refactor.xml
 C:\Users\dette\source\repos\Winter2024\420_DW4_AS\mti-student-project-management\MTIDatabase\obj\Debug\postdeploy.sql
 C:\Users\dette\source\repos\Winter2024\420_DW4_AS\mti-student-project-management\MTIDatabase\obj\Debug\predeploy.sql
-C:\Users\dette\source\repos\Winter2024\420_DW4_AS\mti-student-project-management\MTIDatabase\obj\Debug\MTIDatabase.dll
-C:\Users\dette\source\repos\Winter2024\420_DW4_AS\mti-student-project-management\MTIDatabase\obj\Debug\MTIDatabase.pdb
